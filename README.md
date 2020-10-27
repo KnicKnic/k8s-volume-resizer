@@ -7,8 +7,8 @@ This project is intended to be passed in the PVC you wish to control. The PVC wi
 
 ## TODO
 
-- [ ] Create github action build script
-- [ ] create empty project
+- [x] Create github action build script
+- [x] create empty project
 - [ ] Add ability to auto resize PVC
 - [ ] Determine if StatefulSets can be auto resized
 - [ ] Add e2e tests
